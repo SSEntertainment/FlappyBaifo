@@ -1,2 +1,4 @@
 # Visual Studio Community Configuration
 .vs/
+# Temp files from Unity
+Temp/

@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Portada : MonoBehaviour {
 
-	void Update ()
+    void Update ()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
